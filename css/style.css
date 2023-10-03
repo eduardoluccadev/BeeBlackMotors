@@ -182,8 +182,9 @@ a {
 }
 
 .card-title {
-    font-size: 4rem;
+    font-size: 4rem!important;
     margin: 3rem 0;
+    
 }
 
 .card-text {
